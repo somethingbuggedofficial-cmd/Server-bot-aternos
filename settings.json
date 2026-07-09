@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FIMOSISCRAFT.aternos.me:25404",
+    "ip": "FIMOSISCRAFT.aternos.me",
     "port": 25404,
     "version": "",
     "try-creative": false
