@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FIMOSISCRAFT.aternos.me",
-    "port": 25404,
+    "ip": "peruanoscraft.falixsrv.me",
+    "port": 22178,
     "version": "1.21.11",
     "try-creative": false
   },
